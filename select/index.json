@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Buffer",
+  "base_artist": "Empty old City",
+  "createdAt": "2025-12-09T09:56:30.758954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Buffer Zone",
+      "artist": "The Sterns",
+      "has_synced": false,
+      "path": "select/01_Buffer_Zone_The_Sterns.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Time (feat. Bruce Buffer)",
+      "artist": "Steve Aoki/Laidback Luke/Bruce Buffer",
+      "has_synced": true,
+      "path": "select/02_It's_Time_(feat._Bruce_Buffer)_Steve_Aoki_Laidback_Luke_Bruce_Buffer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Michael Buffer (prod. Magiera)",
+      "artist": "Peja",
+      "has_synced": true,
+      "path": "select/03_Michael_Buffer_(prod._Magiera)_Peja.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Michael Buffer (Instrumental)",
+      "artist": "Peja",
+      "has_synced": false,
+      "path": "select/04_Michael_Buffer_(Instrumental)_Peja.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Michael Buffer",
+      "artist": "Peja",
+      "has_synced": true,
+      "path": "select/05_Michael_Buffer_Peja.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Buffer",
+      "artist": "Empty old City",
+      "has_synced": true,
+      "path": "select/06_Buffer_Empty_old_City.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Empty old City - Buffer",
+      "artist": "Empty old City",
+      "has_synced": true,
+      "path": "select/07_Empty_old_City_-_Buffer_Empty_old_City.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Buffer Rings",
+      "artist": "Otis Mensah",
+      "has_synced": true,
+      "path": "select/08_Buffer_Rings_Otis_Mensah.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Train Buffer",
+      "artist": "Aesop Rock",
+      "has_synced": false,
+      "path": "select/09_Train_Buffer_Aesop_Rock.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Buffer",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_Buffer_Empty_old_City.txt"
+    }
+  ]
+}
